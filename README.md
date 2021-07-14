@@ -1,7 +1,7 @@
 # Vegetacion_EmbalseLaPlaya_1985-2021A
 
 <p align="center">
-  <img width="360" src="/Gif_Animacion/Vegetacion_EmbalseLaPlaya_1985-2021A.gif">
+  <img width="360" src="Vegetacion_EmbalseLaPlaya_1985-2021A/NDVI_1985-2021PrimerSemestre/Gif_Animacion/">
 </p>
 
 El índice de vegetación de diferencia normalizada se genera a partir de las bandas de infrarrojo cercano y rojo de cada escena como (NIR - rojo) / (NIR + rojo), y su valor varía de -1,0 a 1,0.
