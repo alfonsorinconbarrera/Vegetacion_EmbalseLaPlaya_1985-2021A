@@ -20,4 +20,4 @@ Composición y análisis:
 Alfonso rincón barrera
 
 Gestión digital:
-Fredy alberto hernández corredor
+Fredy alberto hernández corredor 
