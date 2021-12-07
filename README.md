@@ -18,6 +18,3 @@ Planta sana:			0,66 - 1,0
 
 Composición y análisis:
 Alfonso rincón barrera
-
-Gestión digital:
-Fredy alberto hernández corredor 
